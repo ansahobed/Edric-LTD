@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Hero from '../components/sections/Hero';
 import PropertyCard from '../components/ui/PropertyCard';
-import { properties, Property } from '../utils/data';
+import { properties, } from '../utils/data';
 
 const PropertiesPage: React.FC = () => {
   const [filters, setFilters] = useState({
