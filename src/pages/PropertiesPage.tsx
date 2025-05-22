@@ -84,7 +84,7 @@ const PropertiesPage: React.FC = () => {
                   className="w-full px-3 py-2 border border-slate-300 rounded-sm focus:outline-none focus:ring-1 focus:ring-gold-500"
                 >
                   <option value="">Any</option>
-                  <option value="1000000">¢1,000,000</option>
+                  <option value="1000000">$1,000,000</option>
                   <option value="2000000">$2,000,000</option>
                   <option value="3000000">$3,000,000</option>
                   <option value="5000000">$5,000,000</option>

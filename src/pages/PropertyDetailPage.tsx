@@ -37,7 +37,7 @@ const PropertyDetailPage: React.FC = () => {
   const formatPrice = (price: number) => {
     return new Intl.NumberFormat('en-US', {
       style: 'currency',
-      currency: 'USD',
+      currency: 'GHS',
       minimumFractionDigits: 0,
       maximumFractionDigits: 0,
     }).format(price);
