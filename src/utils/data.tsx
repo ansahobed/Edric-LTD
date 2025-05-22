@@ -119,6 +119,7 @@ export const properties: Property[] = [
     ],
     virtualTour: "https://www.example.com/virtualtour/hillside-mansion",
     featured: true
+    
   },
   {
     id: "p3",
